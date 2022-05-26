@@ -1,0 +1,12 @@
+H:\proect\Cloud.Denis.Vozniuk-master\Cloud.Denis.Vozniuk.Core\bin\Debug\net5.0\Cloud.Magasin.Core.deps.json
+H:\proect\Cloud.Denis.Vozniuk-master\Cloud.Denis.Vozniuk.Core\bin\Debug\net5.0\Cloud.Magasin.Core.dll
+H:\proect\Cloud.Denis.Vozniuk-master\Cloud.Denis.Vozniuk.Core\bin\Debug\net5.0\Cloud.Magasin.Core.pdb
+H:\proect\Cloud.Denis.Vozniuk-master\Cloud.Denis.Vozniuk.Core\obj\Debug\net5.0\Cloud.Magasin.Core.csproj.AssemblyReference.cache
+H:\proect\Cloud.Denis.Vozniuk-master\Cloud.Denis.Vozniuk.Core\obj\Debug\net5.0\Cloud.Magasin.Core.GeneratedMSBuildEditorConfig.editorconfig
+H:\proect\Cloud.Denis.Vozniuk-master\Cloud.Denis.Vozniuk.Core\obj\Debug\net5.0\Cloud.Magasin.Core.AssemblyInfoInputs.cache
+H:\proect\Cloud.Denis.Vozniuk-master\Cloud.Denis.Vozniuk.Core\obj\Debug\net5.0\Cloud.Magasin.Core.AssemblyInfo.cs
+H:\proect\Cloud.Denis.Vozniuk-master\Cloud.Denis.Vozniuk.Core\obj\Debug\net5.0\Cloud.Magasin.Core.csproj.CoreCompileInputs.cache
+H:\proect\Cloud.Denis.Vozniuk-master\Cloud.Denis.Vozniuk.Core\obj\Debug\net5.0\Cloud.Magasin.Core.dll
+H:\proect\Cloud.Denis.Vozniuk-master\Cloud.Denis.Vozniuk.Core\obj\Debug\net5.0\refint\Cloud.Magasin.Core.dll
+H:\proect\Cloud.Denis.Vozniuk-master\Cloud.Denis.Vozniuk.Core\obj\Debug\net5.0\Cloud.Magasin.Core.pdb
+H:\proect\Cloud.Denis.Vozniuk-master\Cloud.Denis.Vozniuk.Core\obj\Debug\net5.0\ref\Cloud.Magasin.Core.dll
